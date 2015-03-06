@@ -10,7 +10,9 @@ namespace TestCIJenkins
     {
         static void Main(string[] args)
         {
-            
+            TestAjoutClasse t = new TestAjoutClasse();
+            Console.WriteLine(t.GetMessage());
+            Console.ReadKey();
         }
     }
 }

@@ -10,7 +10,7 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
             TestAjoutClasse test = new TestAjoutClasse();
-            Assert.Equals(test.GetMessage(),"hello");
+            Assert.AreEqual("hello", test.GetMessage());
         }
     }
 }

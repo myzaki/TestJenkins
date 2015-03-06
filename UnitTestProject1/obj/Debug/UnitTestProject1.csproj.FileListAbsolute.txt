@@ -1,0 +1,7 @@
+C:\Users\Steph\documents\visual studio 2012\Projects\TestCIJenkins\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Steph\documents\visual studio 2012\Projects\TestCIJenkins\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Steph\documents\visual studio 2012\Projects\TestCIJenkins\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Steph\documents\visual studio 2012\Projects\TestCIJenkins\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Steph\documents\visual studio 2012\Projects\TestCIJenkins\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Steph\Documents\Visual Studio 2012\Projects\TestCIJenkins\UnitTestProject1\bin\Debug\TestCIJenkins.exe
+C:\Users\Steph\Documents\Visual Studio 2012\Projects\TestCIJenkins\UnitTestProject1\bin\Debug\TestCIJenkins.pdb

@@ -1,0 +1,10 @@
+c:\users\steph\documents\visual studio 2012\Projects\TestCIJenkins\TestCIJenkins\bin\Debug\TestCIJenkins.exe.config
+C:\Users\Steph\documents\visual studio 2012\Projects\TestCIJenkins\TestCIJenkins\bin\Debug\TestCIJenkins.exe
+C:\Users\Steph\documents\visual studio 2012\Projects\TestCIJenkins\TestCIJenkins\bin\Debug\TestCIJenkins.pdb
+C:\Users\Steph\documents\visual studio 2012\Projects\TestCIJenkins\TestCIJenkins\bin\Debug\nunit.framework.dll
+C:\Users\Steph\documents\visual studio 2012\Projects\TestCIJenkins\TestCIJenkins\bin\Debug\nunit.framework.xml
+C:\Users\Steph\documents\visual studio 2012\Projects\TestCIJenkins\TestCIJenkins\obj\Debug\TestCIJenkins.csprojResolveAssemblyReference.cache
+C:\Users\Steph\documents\visual studio 2012\Projects\TestCIJenkins\TestCIJenkins\obj\Debug\TestCIJenkins.exe
+C:\Users\Steph\documents\visual studio 2012\Projects\TestCIJenkins\TestCIJenkins\obj\Debug\TestCIJenkins.pdb
+C:\Users\Steph\documents\visual studio 2012\Projects\TestCIJenkins\TestCIJenkins\bin\Debug\StyleCop.CSharp.dll
+C:\Users\Steph\documents\visual studio 2012\Projects\TestCIJenkins\TestCIJenkins\bin\Debug\StyleCop.dll
